@@ -28,3 +28,6 @@ os.system("tput setaf 3")
 print("\nYour Salary is : Rupees >", Salary,"\n")
 
 os.system("tput setaf 7")
+
+
+print("testing git ")
